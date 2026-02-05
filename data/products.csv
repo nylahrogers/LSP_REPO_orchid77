@@ -1,0 +1,8 @@
+ProductID,Name,Price,Category
+1,Laptop,1000,Electronics
+2,Mouse,25,Electronics
+3,Notebook,5,Office
+4,Desk,600,Furniture
+5,Phone,600,Electronics
+bad,row,here
+6,TV,abc,Electronics
