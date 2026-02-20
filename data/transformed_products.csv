@@ -1,0 +1,6 @@
+ProductID,Name,Price,Category,PriceRange
+1,LAPTOP,900.00,Premium Electronics,Premium
+2,MOUSE,22.50,Electronics,Medium
+3,NOTEBOOK,5.00,Office,Low
+4,DESK,600.00,Furniture,Premium
+5,PHONE,540.00,Premium Electronics,Premium
